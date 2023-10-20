@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakshimaluskar" target="blank"><img src="https://img.shields.io/twitter/follow/sakshimaluskar?logo=twitter&style=for-the-badge" alt="sakshimaluskar" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and Competitive programming**
+- 🌱 I’m currently learning **DSA and MERN stack development**
 
 - 💬 Ask me about **react, frontend**
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/sakshimaluskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshimaluskar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sakshi-maluskar-166858251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshi-maluskar-166858251" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sakshi_maluskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshi_maluskar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
