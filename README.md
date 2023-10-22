@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakshimaluskar" target="blank"><img src="https://img.shields.io/twitter/follow/sakshimaluskar?logo=twitter&style=for-the-badge" alt="sakshimaluskar" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and MERN stack development**
+- 🌱 I’m currently learning **DSA and MERN stack development , Cloud technologies**
 
 - 💬 Ask me about **react, frontend**
 
