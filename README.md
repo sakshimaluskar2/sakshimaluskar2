@@ -1,14 +1,13 @@
 
 <div align="center">
 
-![MasterHead](https://share.creavite.co/JsGTiL0KoejAByNM.gif)
 
 ### <b>Hi There, I'm Sakshi Maluskar 👋</b> 
 
 ## 💫 About Me:
 🔭 I am web developer having a Good knowledge of Front-end Technologies. <br>👯 I’m looking to collaborate on MERN stack project and DevOps technique.<br>🤝 Seeking guidance in DevOps .<br>🌱 I’m currently learning AWS cloud various tools in DevOps.<br>⚡ Fun fact: I code ☕️ caffeinated!
 
-<p align="left"> <a href="https://twitter.com/sakshimaluskar" target="blank"><img src="https://img.shields.io/twitter/follow/sakshimaluskar?logo=twitter&style=for-the-badge" alt="sakshimaluskar" /></a> </p>
+<p align="auto"> <a href="https://twitter.com/sakshimaluskar" target="blank"><img src="https://img.shields.io/twitter/follow/sakshimaluskar?logo=twitter&style=for-the-badge" alt="sakshimaluskar" /></a> </p>
 
  🌱 I’m currently learning **DSA and MERN stack development , Cloud technologies**
 
