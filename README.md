@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/sakshimaluskar" target="blank"><img src="https://img.shields.io/twitter/follow/sakshimaluskar?logo=twitter&style=for-the-badge" alt="sakshimaluskar" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and MERN stack development , Cloud technologies**
+ 🌱 I’m currently learning **DSA and MERN stack development , Cloud technologies**
 
-- 💬 Ask me about **react, frontend**
+💬 Ask me about **react, frontend**
 
-- 📫 How to reach me **maluskarsakshi1515@gmail.com**
+📫 How to reach me **maluskarsakshi1515@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
